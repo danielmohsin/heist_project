@@ -1,0 +1,15 @@
+{
+    "heist": {
+        "id": 30195078,
+        "startedAt": "2024-10-28T16:47:16.692Z",
+        "endedAt": "2024-10-30T19:29:41.396Z",
+        "totalAmountEmitted": "1056.392957108",
+        "totalAmountClaimed": "0",
+        "nftId": "2GW3Rq11oDGjSPT6JnBneJSY5cUUqXZFDxShn8Z4smXY",
+        "walletId": "Faz5A2WZ4kgWsZfF9mTjb6u4hrH5mkk4YQi6x8xc5HEj",
+        "locationId": 17,
+        "eventId": 5,
+        "isBonusRoll": false
+    },
+    "amount": -1056.392957108
+}
